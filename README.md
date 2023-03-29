@@ -2,7 +2,7 @@
 
 Basic template supporting:
 
-Node - if using NVM, run 'nvm use'
+Node - if using NVM, run `nvm use`
 
 React
 
@@ -12,6 +12,5 @@ Typescript
 
 ESLint
 
-Prettier - run 'npx prettier --write .'
-
+Prettier - run `npx prettier --write .`
 Styled Components
